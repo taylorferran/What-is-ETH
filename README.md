@@ -12,8 +12,6 @@ dApps are built on Ethereum using it's programming language, Solidity. You can w
 
 It maintains consensus across all the computers in it's network with Proof of Work (PoW). In the near future, with the Serenity patch, Ethereum will be moving to a Proof of Stake (PoS) mechanism.
 
-> NOTE: Recently on September 15 2022, the Ethereum Merge completed and Ethereum shifted to a Proof of Stake system. We will have a new lesson in Sophomore to talk about Proof of Stake shortly. Ethereum no longer uses Proof of Work, however it is very helpful to understand it.
-
 <Quiz questionId="d04384a8-ea61-4c59-b02c-5637802a8f6e" />
 
 <Quiz questionId="a95e6c2d-e868-421b-8bea-57a17cb4b0fd" />
